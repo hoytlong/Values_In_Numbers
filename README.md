@@ -1,2 +1,2 @@
 # Values In Numbers
-Code and data associated with "The Values in Numbers" (Columbia University Press, 2021)
+Code and data associated with <i>The Values in Numbers</i> (Columbia University Press, 2021)
