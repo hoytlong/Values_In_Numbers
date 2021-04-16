@@ -4,7 +4,7 @@ Literature in a Global Information Age*.
 
 **<u>Data Files</u>**
 
-1\) <u>“AozoraLiteraryTranslations.xlsx”</u> – Subset of Aozora Bunko metadata
+1\) **<u>“AozoraLiteraryTranslations.xlsx”</u>** – Subset of Aozora Bunko metadata
 that includes all titles marked as translations into Japanese.
 
 2\) <u>“AuthRankCorr.xlsx”</u> – Author ranking data used to produce
