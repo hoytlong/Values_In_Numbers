@@ -1,5 +1,3 @@
-**Read Me File**
-
 \* This Read Me File describes code and data associated with Chapter 2
 (“Archive and Sample”) of *The Values in Numbers: Reading Japanese
 Literature in a Global Information Age*.
