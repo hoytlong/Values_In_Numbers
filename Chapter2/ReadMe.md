@@ -2,7 +2,7 @@
 (“Archive and Sample”) of *The Values in Numbers: Reading Japanese
 Literature in a Global Information Age*.
 
-### ***<u>Data Files</u>*** ###
+------- ### ***<u>Data Files</u>*** ###
 
 1\) **<u>“AozoraLiteraryTranslations.xlsx”</u>** – Subset of Aozora Bunko metadata
 that includes all titles marked as translations into Japanese.
@@ -65,7 +65,7 @@ the top 250 authors (by total numbers of titles anthologized) in the
 Nichigai anthology data. Counts are tabulated based only on omnibus
 anthologies, not individual author anthologies.
 
-### ***<u>Code Files</u>*** ###
+------- ### ***<u>Code Files</u>*** ###
 
 *(R Scripts)*
 
