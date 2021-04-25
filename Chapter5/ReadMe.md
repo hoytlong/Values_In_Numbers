@@ -159,9 +159,9 @@ output to a file whose name corresponds to the parameters used for
 building the semantic clusters (e.g.,
 “kfree\_thresh0.69\_numtest5000\_window20...”). The output file lists
 all significant clusters for each pair of racial identifiers compared
-(i.e., “Korean” versus “Japanese”). For every word in a cluster is given
-1) the relative frequency of the word across all occurrences of the
-first racial identifier (e.g., “Korean”) and 2) the relative frequency
+(i.e., “Korean” versus “Japanese”). For every word in a cluster is provided the
+relative frequency of the word across all occurrences of the first racial 
+identifier (e.g., “Korean”) and the relative frequency
 of the word across all occurrences of the second racial identifier
 (e.g., “Japanese”). The first value is used in the following step as a
 proxy for the strength of a particular semantic cluster (i.e., the value
