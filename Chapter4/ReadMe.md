@@ -33,7 +33,7 @@ file not included in this repository.
 passage-level features for all SOC labeled texts and all 90 texts marked
 as “I-Novel,” “Popular,” or “Junbungaku” (pure literature).
 
-8**) “Results\\FicChunkFeatures.xlsx”** – Data frame of extracted
+8\) **“Results\\FicChunkFeatures.xlsx”** – Data frame of extracted
 passage-level features for all 718 works sampled from the Aozora Fiction
 corpus.
 
