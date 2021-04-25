@@ -2,7 +2,7 @@
 (“Discourse and Character”) of *The Values in Numbers: Reading Japanese
 Literature in a Global Information Age*.
 
-**------- Data Files -------**
+### **------- Data Files -------** ###
 
 1\) **“Data\\Fiction\_Meta.xlsx”** – Metadata for all “Fiction” texts
 used in analysis. Roughly 1,900 titles are included in the corpus,
@@ -79,7 +79,7 @@ racial identifiers (e.g., Westerner) in “Kindai Magazine” corpus. For
 each context, metadata for the source text is provided along with the
 corresponding original passage.
 
-**------- Code Files -------**
+### **------- Code Files -------** ###
 
 1\) **“Ch5\_Code.R”** – An R file with scripts for reproducing all
 visualizations in the chapter, as well as some extended analysis of
@@ -122,7 +122,7 @@ corpus are included in this repository.
 bootstrap word embedding models on a corpus of pre-processed texts.
 Bootstrap models are not provided for the “Kindai Magazine” corpus.
 
-**------- Corpus Processing and Analysis Steps -------**
+### **------- Corpus Processing and Analysis Steps -------** ###
 
 Listed below are the steps taken to carry out the analysis described in
 this chapter.
