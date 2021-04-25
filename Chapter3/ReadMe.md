@@ -2,7 +2,7 @@
 and Repetition”) of *The Values in Numbers: Reading Japanese Literature
 in a Global Information Age*.
 
-**Data Files**
+### ------- **Data Files** ------- ###
 
 1\) **“Data\\Ch3CorpusMetadata.xlsx”** – Metadata file for all texts in
 the corpus, including unique IDs associated with each text.
@@ -30,7 +30,7 @@ extracted features for Japanese corpus.
 features for the Chinese corpus. This file was produced as part of an
 earlier iteration of this research, as described in the chapter.
 
-**Code Files**
+### ------- **Code Files** ------- ### 
 
 *(Python Scripts)*
 
@@ -66,7 +66,7 @@ genre predictions based on different genre models.
 7\) **“Visualize.R”** – Code to generate all visualizations related to
 this chapter.
 
-**<u>Corpus Processing and Analysis Steps</u>**
+### ------- **<u>Corpus Processing and Analysis Steps</u>** ------- ###
 
 \* All texts were stripped of paratextual content such as titles,
 headers, page numbers, etc. Kanji characters were normalized to “new”
