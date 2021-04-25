@@ -14,19 +14,19 @@ corpus used in the analysis. This corpus was provided by the National
 Institute for Japanese Language and Linguistics for research use and I
 do not have permission to share the underlying text data in any form.
 
-3\) **“Corpora\\FictionW2VPreProcessed.zip\\”** – This folder contains all
+3\) **“Corpora\\FictionW2VPreProcessed.zip”** – This folder contains all
 the “Fiction” texts used in the analysis in a pre-processed format
 (e.g., lemmatized, character names filtered out). I include the full
 corpus in this format so that the “Cluster Detection” procedure (see
 below) can be repeated using different parameter settings.
 
-4\) **“Corpora\\AozoraFictionTokenized.zip\\”** – Contains all
+4\) **“Corpora\\AozoraFictionTokenized.zip”** – Contains all
 **out-of-copyright** “Fiction” works used in analysis, stored in a
 pre-tokenized format. **\* Note: Results of analysis cannot be
 reproduced with only these texts because in-copyright files are not
 included.**
 
-5\) **“Corpora\\UnidicLemmaMerged.zip\\”** – Contains all
+5\) **“Corpora\\UnidicLemmaMerged.zip”** – Contains all
 **out-of-copyright** “Fiction” works used in the analysis, stored in
 lemmatized and tokenized format, with racial identifiers merged into
 unified terms as described in the chapter. **\* Note: Results of
