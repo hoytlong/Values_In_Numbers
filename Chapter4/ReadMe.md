@@ -2,7 +2,7 @@
 (“Influence and Judgement”) of *The Values in Numbers: Reading Japanese
 Literature in a Global Information Age*.
 
-**------- Data Files -------**
+### **------- Data Files -------** ###
 
 1\) **“Data\\SOC\_TEXTS\_METADATA.xlsx”** – Metadata file for all
 hand-picked SOC passages, including unique IDs associated with each
@@ -68,7 +68,7 @@ for work/book level predictions on the I-novel, Popular, and Pure
 (“JUNBUNGAKU”) literature genres. Only the figure for I-novel predicted
 scores is included in the body of the chapter.
 
-**------- Code Files -------**
+### **------- Code Files -------** ###
 
 1\) **“jp\_feature\_extraction.ipynb”** – An IPython notebook used to
 extract passage level features from all corpora.
@@ -82,7 +82,7 @@ the classification procedure.
 this chapter. Uses the passage and book level predictions produced with
 Classifier.R code file.
 
-**------- Corpus Processing and Analysis Steps -------**
+### **------- Corpus Processing and Analysis Steps -------** ###
 
 \* All texts were stripped of paratextual content such as titles,
 headers, page numbers, etc. Kanji characters were normalized to “new”
